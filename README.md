@@ -1,2 +1,0 @@
-# ozanDeneme
-necdetin kodlari
